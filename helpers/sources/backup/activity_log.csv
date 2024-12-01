@@ -1,0 +1,23 @@
+id,timestamp,window_title,duration,classification
+1,2024-09-08T11:58:51.647473,Advanced PC Activity Monitor,50.294517517089844,Productive
+2,2024-09-08T11:59:01.668050,activity_training_data.csv - Tracker - Visual Studio Code,10.01756238937378,Productive
+3,2024-09-08T11:59:11.703514,Windows PowerShell,10.038506507873535,Productive
+4,2024-09-08T11:59:21.729379,activity_training_data.csv - Tracker - Visual Studio Code,10.025853633880615,Productive
+5,2024-09-08T11:59:41.766750,Advanced PC Activity Monitor,20.036346435546875,Productive
+6,2024-09-08T12:00:01.961814,daily_summary.png - Tracker - Visual Studio Code,20.1950581073761,Productive
+7,2024-09-08T12:00:11.996466,Tracker,10.034650802612305,Productive
+8,2024-09-08T12:00:22.027678,Windows PowerShell,10.03222942352295,Productive
+9,2024-09-08T12:00:32.044314,File Explorer,10.015620708465576,Productive
+10,2024-09-08T12:00:42.074285,screenshot_20240908-115851.png - Search Results in Quick access,10.029984474182129,Productive
+11,2024-09-08T12:01:02.252962,screenshot_20240908-115851.png - Search Results in This PC,20.18066906929016,Productive
+12,2024-09-08T12:01:12.269123,Windows PowerShell,10.016167640686035,Productive
+13,2024-09-08T12:01:22.296111,Advanced PC Activity Monitor,10.024989128112793,Productive
+14,2024-09-08T12:01:32.313497,Visual Studio Code,10.019378185272217,Productive
+15,2024-09-08T12:02:32.621082,activity_log.db - Tracker - Visual Studio Code,60.30658769607544,Productive
+16,2024-09-08T12:02:42.644210,activity_training_data.csv - Tracker - Visual Studio Code,10.024129152297974,Productive
+17,2024-09-08T12:18:32.083249,Advanced PC Activity Monitor,4.037206649780273,Productive
+18,2024-09-08T12:18:34.116647,C:\WINDOWS\System32\cmd.exe - python  main.py,2.0304343700408936,Productive
+19,2024-09-08T12:18:44.220715,Advanced PC Activity Monitor,10.10803771018982,Productive
+20,2024-09-08T12:18:46.257534,requirements.txt - Tracker - Visual Studio Code,2.0310215950012207,Productive
+21,2024-09-08T12:18:55.364485,daily_summary.png - Tracker - Visual Studio Code,9.110756397247314,Productive
+22,2024-09-08T12:18:56.388266,requirements.txt - Tracker - Visual Studio Code,1.0247774124145508,Productive

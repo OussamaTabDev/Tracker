@@ -1,0 +1,13 @@
+{
+    "screenshot_interval": 60,
+    "focus_mode": true,
+    "productivity_goal": 240,
+    "break_reminder": 45,
+    "database_file": "sources/activity_log.db",
+    "screenshot_dir": "screenshots",
+    "export_file": "sources/activity_log.csv",
+    "training_data_file": "sources/activity_training_data.csv",
+    "trash_file": "sources/Trash_log.csv",
+    "pomodoro_work": 25,
+    "pomodoro_break": 5
+}

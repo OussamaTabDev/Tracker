@@ -1,0 +1,26 @@
+{
+    "app_categories": {
+        "VSCode": "productive",
+        "Excel": "productive",
+        "Chrome": "learning",
+        "Steam": "entertainment",
+        "Spotify": "entertainment"
+    },
+    "daily_goals": {
+        "productive_time": 240,
+        "learning_time": 60,
+        "exercise_time": 30
+    },
+    "motivation_quotes": [
+        "Progress is better than perfection",
+        "Small steps lead to big changes",
+        "You've got this!"
+    ],
+    "break_activities": [
+        "Quick stretch",
+        "Deep breathing",
+        "Walk around",
+        "Drink water",
+        "Eye exercises"
+    ]
+}
